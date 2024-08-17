@@ -1,52 +1,54 @@
 # Marco Ariel Alvarado Mancía
 
 ## Información Personal
-- **Dirección:** Res. Villas Mabel, San Pedro Sula
 - **Número de celular:** 3355-2223
 - **Correo electrónico:** arielalvarado15@protonmail.com
-- **Fecha de nacimiento:** 15 enero 2000
-- **Edad:** 24 años
-- **Identidad:** 0510-2000-00176
+- **Ubicación:** San Pedro Sula, Honduras
 - **Perfil GitHub:** [github.com/a15alvarado](https://github.com/a15alvarado)
-
-## Educación
-- **Instituto Técnico Santa Cruz**
-  - Bachillerato Técnico Profesional en Ciencias y Humanidades (2015 – 2016)
-- **Universidad Nacional Autónoma de Honduras**
-  - Ingeniería en Sistemas, pasante universitario (Práctica Finalizada) (2017 – Presente)
-
-## Actitudes
-Resolutivo, hábil, trabajo en equipo, amable, servicial, autodidacta, responsable, flexible, proactivo, perseverante, analítico, liderazgo, puntual, creativo, buenas habilidades blandas, optimista, resiliente.
+- **LinkedIn:** [www.linkedin.com/in/ariel-alvarado-204270277](http://www.linkedin.com/in/ariel-alvarado-204270277)
 
 ## Experiencia Laboral
-- **Tienda de Accesorios de Teléfono (Negocio Familiar)**
-  - Desempeñándome en atención al cliente, ventas al por mayor y menor, control de inventario, considerado un comodín, capaz de desempeñarme en cualquier puesto según sea necesario.
-  - *2018 – 2023*
 
-- **Plastinova Industrial (Práctica Profesional)**
-  - Desempeñándome en soporte técnico, también en desarrollo de software de escritorio usando el lenguaje C# y .NET, también SQL Server y Git para el control de versiones de los proyectos a su vez aplicando código limpio a los proyectos.
-  - *Febrero 2024 - Julio 2024*
+### Plastinova Industrial S.A de C.V | Febrero 2024 - Agosto 2024
+- Desarrollo de software en C# y ASP.NET e implementación de módulos en un ERP existente siguiendo patrones de diseño y modelos de negocio ya establecidos.
+- Normalización de tablas de la base de datos, optimización de la estructura de datos, y eliminación de inconsistencias masivas en miles de registros de producción.
+- Implementación de nomenclatura estándar para la nueva versión de la base de datos, asegurando consistencia y claridad en la gestión de datos.
+- Mejora de la escalabilidad del proyecto y migración hacia una arquitectura monolítica modular integrada con microservicios.
+- Gestión del control de versiones mediante Git y documentación.
+- Aseguramiento de la calidad del código mediante la aplicación de principios de código limpio y la eliminación de codesmells.
+- Uso de Odoo para la gestión y seguimiento de tickets.
 
-## Competencias
+### Tienda de Accesorios de Teléfono | Julio 2018 – Diciembre 2023
+- Desempeño en atención al cliente, ventas al por mayor y menor, control de inventario.
+
+## Educación
+
+### Universidad Nacional Autónoma de Honduras | Enero 2017 – Diciembre 2023
+- Ingeniería en Sistemas
+
+## Competencias y Actitudes
+
+**Competencias**:
+- C#
+- ASP.NET MVC
+- SQL Server
 - Git y GitHub
-- Oracle Data Modeler - Básico
-- Lenguaje C# - Intermedio
-- Base de Datos SQL Server - Intermedio
-- Servidores Linux – Básico
-- Reparación de equipos de cómputo a nivel de software y hardware
+- Odoo
+- Oracle Data Modeler
+- Servidores Linux
+- Mantenimiento de software y hardware
+
+**Actitudes**: Autodidacta, responsable, proactivo, analítico, resiliente.
 
 ## Cursos
-- Servicio de calidad al cliente – INFOP; junio 2020
-- Base de datos MySQL – INFOP; mayo 2020
-- Administración de centros de cómputo – INFOP; junio 2020
-- Ciber Seguridad - Universidad de Michigan; julio 2017
-- CCNA 1 y 2 – UNAH; mayo-diciembre 2022
-
-## Idiomas
-- Inglés – Intermedio
+- **Base de datos MySQL** – INFOP; mayo 2020
+- **Administración de centros de cómputo** – INFOP; junio 2020
+- **Ciber Seguridad** - Universidad de Michigan; julio 2017
+- **CCNA 1 y 2** – UNAH; mayo-diciembre 2022
 
 ## Referencias
-- **Jasleen Laínez** - Lic. en Psicología, Analista de Recursos Humanos (Prosegur)
+
+- **Lic. Jasleen Laínez** - Lic. en Psicología, Analista de Recursos Humanos (Prosegur)
   - **Correo electrónico:** jasleenlainez97@gmail.com
   - **Teléfono:** 9821-0977
 
